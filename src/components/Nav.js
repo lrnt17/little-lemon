@@ -1,8 +1,9 @@
 import React from "react";
+import '../styles/Nav.css';
 
 function Nav() {
   return (
-    <nav>
+    <nav className="nav">
       {/* The header content will go here */}
       <ul>
         <li><a href="#home">Home</a></li>

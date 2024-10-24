@@ -2,7 +2,7 @@ import React from "react";
 
 function Main() {
   return (
-    <main>
+    <main className="main">
       {/* The header content will go here */}
       Main
     </main>
