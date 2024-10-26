@@ -23,3 +23,20 @@ nav {
   nav ul li a:hover {
     color: #f39c12;
   }
+
+  .nav-list {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f8b400;
+    padding: 10px;
+  }
+  
+  .nav-list li {
+    list-style: none;
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+  }

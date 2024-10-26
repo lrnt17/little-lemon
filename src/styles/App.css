@@ -91,3 +91,34 @@
     border-radius: 10px; /* If rounded edges are required */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow */
   }
+
+  /* Call to Action Section */
+.call-to-action {
+    background-color: #f8b400;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .call-to-action h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .call-to-action p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+  }
+  
+  .call-to-action button {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .call-to-action button:hover {
+    background-color: #555;
+  }
